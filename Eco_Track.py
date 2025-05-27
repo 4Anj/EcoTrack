@@ -1,0 +1,5 @@
+print("hello tracker")
+print("This app lets you monitor and track your carbon footprint")
+print("Cause just knowing makes a lot of difference :)")
+print("Rise to live the best life")
+print("All the best")

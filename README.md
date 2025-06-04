@@ -53,11 +53,19 @@ After classification, the program gives small actionable advice to lower emissio
 
 ---
 
-Machine Learning
+## Machine Learning
 - Model: DecisionTreeClassifier
 - Input Features: Daily travel, monthly electricity, weekly meat meals, monthly online orders
 - Target: Carbon footprint category (Low, Medium, High)
 - Accuracy: ~80% on a small dataset
+
+---
+
+## Installations
+
+1. Requirements (packages used)
+   ```bash
+   pip install -r requirements.txt
 
 ---
 
